@@ -1,0 +1,1 @@
+(self.webpackChunkdata_test_wc_plugin=self.webpackChunkdata_test_wc_plugin||[]).push([[1778],{51778:(a,e,n)=>{n.r(e),n.d(e,{default:()=>t});const t=n(38865).newDashboardEngine}}]);
